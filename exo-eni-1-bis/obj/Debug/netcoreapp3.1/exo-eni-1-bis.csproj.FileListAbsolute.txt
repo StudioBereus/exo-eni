@@ -1,0 +1,14 @@
+C:\Users\osaly\source\repos\exo-eni-1-bis\bin\Debug\netcoreapp3.1\exo-eni-1-bis.exe
+C:\Users\osaly\source\repos\exo-eni-1-bis\bin\Debug\netcoreapp3.1\exo-eni-1-bis.deps.json
+C:\Users\osaly\source\repos\exo-eni-1-bis\bin\Debug\netcoreapp3.1\exo-eni-1-bis.runtimeconfig.json
+C:\Users\osaly\source\repos\exo-eni-1-bis\bin\Debug\netcoreapp3.1\exo-eni-1-bis.runtimeconfig.dev.json
+C:\Users\osaly\source\repos\exo-eni-1-bis\bin\Debug\netcoreapp3.1\exo-eni-1-bis.dll
+C:\Users\osaly\source\repos\exo-eni-1-bis\bin\Debug\netcoreapp3.1\exo-eni-1-bis.pdb
+C:\Users\osaly\source\repos\exo-eni-1-bis\obj\Debug\netcoreapp3.1\exo-eni-1-bis.csproj.AssemblyReference.cache
+C:\Users\osaly\source\repos\exo-eni-1-bis\obj\Debug\netcoreapp3.1\exo-eni-1-bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaly\source\repos\exo-eni-1-bis\obj\Debug\netcoreapp3.1\exo-eni-1-bis.AssemblyInfoInputs.cache
+C:\Users\osaly\source\repos\exo-eni-1-bis\obj\Debug\netcoreapp3.1\exo-eni-1-bis.AssemblyInfo.cs
+C:\Users\osaly\source\repos\exo-eni-1-bis\obj\Debug\netcoreapp3.1\exo-eni-1-bis.csproj.CoreCompileInputs.cache
+C:\Users\osaly\source\repos\exo-eni-1-bis\obj\Debug\netcoreapp3.1\exo-eni-1-bis.dll
+C:\Users\osaly\source\repos\exo-eni-1-bis\obj\Debug\netcoreapp3.1\exo-eni-1-bis.pdb
+C:\Users\osaly\source\repos\exo-eni-1-bis\obj\Debug\netcoreapp3.1\exo-eni-1-bis.genruntimeconfig.cache
